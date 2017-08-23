@@ -442,5 +442,3 @@ an immutable reference to a mutable reference is possible.
 <!-- Why does it coerce to an immutable reference, and why cant it go the other
 way?-->
 <!-- Elaborated above /Carol-->
-
-
