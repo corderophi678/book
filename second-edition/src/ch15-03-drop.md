@@ -91,7 +91,7 @@ call the `drop` method explicitly.
 
 When we run this program, we'll see the following output:
 
-```
+```text
 CustomSmartPointer created.
 Dropping CustomSmartPointer!
 ```
@@ -196,7 +196,7 @@ drop a value before it goes out of scope</span>
 
 Running this code will print the following:
 
-```
+```text
 CustomSmartPointer created.
 Dropping CustomSmartPointer!
 CustomSmartPointer dropped before the end of main.
